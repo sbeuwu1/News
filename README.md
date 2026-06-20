@@ -21,6 +21,12 @@
 *   **Сеть:** [Retrofit](https://square.github.io/retrofit/)
 *   **Работа в фоне:** [WorkManager](https://developer.android.com/develop/background-work/background-tasks/persistent/getting-started)
 
+## Скриншоты
+
+| Главный экран | Планирование |
+| :---: | :---: |
+| ![Screen 1](Screenshot_2026_06_20_19_37_47_73_6fd2ca4eb7626aae78af0b054d1e97bc.jpg) | ![Screen 2](Screenshot_2026_06_20_19_38_01_16_6fd2ca4eb7626aae78af0b054d1e97bc.jpg) |
+
 ## Скачать APK
 
 * **[Скачать приложение](https://github.com/sbeu-uwu/News/releases/download/release/News.apk)**
